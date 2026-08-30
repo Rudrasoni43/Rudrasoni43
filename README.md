@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rudrasoni43/Rudrasoni43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# RUDRA // DEV.SYSTEM
 
-Here are some ideas to get you started:
+### B.Tech CSE Student • Developer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Rudrasoni43-181717?style=for-the-badge&logo=github)](https://github.com/Rudrasoni43)
+
+<br>
+
+> Learning → Building → Breaking → Improving
+
+</div>
+
+---
+
+## 01 / WHO AM I
+
+```text
+┌──────────────────────────────────────────────┐
+│ NAME        : Rudra Kumar Soni               │
+│ ROLE        : B.Tech CSE Student             │
+│ STATUS      : ● ONLINE                       │
+│                                               │
+│ FOCUS       : Programming & Problem Solving  │
+│ CURRENTLY   : C++ • Python • Web Development │
+│ EXPLORING   : AI • DSA • Open Source         │
+│                                               │
+│ MISSION     : Build something worth showing  │
+└──────────────────────────────────────────────┘
