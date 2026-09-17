@@ -1,30 +1,38 @@
 <div align="center">
 
-# RUDRA // DEV.SYSTEM
+# ⚡ RUDRA // DEV.SYSTEM
 
-### B.Tech CSE Student • Developer in Progress
+### `B.Tech CSE Student` • `Developer in Progress`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rudrasoni43-181717?style=for-the-badge&logo=github)](https://github.com/Rudrasoni43)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Learning+%E2%86%92+Building+%E2%86%92+Evolving;C%2B%2B+%7C+Python+%7C+Web;Turning+ideas+into+code.;System+status%3A+ONLINE+%E2%97%8F" />
 
 <br>
 
-> Learning → Building → Breaking → Improving
+[![GitHub](https://img.shields.io/badge/GitHub-Rudrasoni43-181717?style=for-the-badge&logo=github)](https://github.com/Rudrasoni43)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
 
 </div>
 
 ---
 
-## 01 / WHO AM I
+## 🖥️ `SYSTEM.INFO`
 
 ```text
-┌──────────────────────────────────────────────┐
-│ NAME        : Rudra Kumar Soni               │
-│ ROLE        : B.Tech CSE Student             │
-│ STATUS      : ● ONLINE                       │
-│                                               │
-│ FOCUS       : Programming & Problem Solving  │
-│ CURRENTLY   : C++ • Python • Web Development │
-│ EXPLORING   : AI • DSA • Open Source         │
-│                                               │
-│ MISSION     : Build something worth showing  │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║                 RUDRA // SYSTEM INFO                 ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  USER        : Rudra Kumar Soni                     ║
+║  ROLE        : B.Tech CSE Student                   ║
+║  STATUS      : ● ONLINE                             ║
+║                                                      ║
+║  PRIMARY     : C++                                  ║
+║  LEARNING    : Python                               ║
+║  WEB         : HTML • CSS                            ║
+║  ENGINEERING : AutoCAD                              ║
+║                                                      ║
+║  FOCUS       : DSA • Problem Solving • AI           ║
+║                                                      ║
+║  MODE        : LEARN → BUILD → DEBUG → REPEAT      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
