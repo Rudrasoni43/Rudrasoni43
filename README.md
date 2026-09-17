@@ -21,7 +21,49 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
 
 </div>
+---
 
+## `03 // TECH CORE`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
+
+<br><br>
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+### ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=autocad" />
+
+<br><br>
+
+### CURRENTLY EXPLORING
+
+<img src="https://skillicons.dev/icons?i=ai" />
+
+</div>
+
+---
+
+### `DEVELOPER STACK`
+
+```text
+C++       → Programming & Problem Solving
+Python    → Programming & Automation
+HTML/CSS  → Web Development
+Git       → Version Control
+GitHub    → Collaboration & Projects
+VS Code   → Development Environment
+AutoCAD   → Engineering & Design
+AI        → Exploration
 ---
 
 ## 🖥️ `SYSTEM.INFO`
