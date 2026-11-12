@@ -23,7 +23,7 @@
 </div>
 ---
 
-## `03 // TECH CORE`
+## ` TECH CORE`
 
 <div align="center">
 
@@ -68,25 +68,7 @@ AI        → Exploration
 
 ## 🖥️ `SYSTEM.INFO`
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 RUDRA // SYSTEM INFO                 ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  USER        : Rudra Kumar Soni                      ║
-║  ROLE        : B.Tech CSE Student                    ║
-║  STATUS      : ● ONLINE                              ║
-║                                                      ║
-║  PRIMARY     : C++                                   ║
-║  LEARNING    : Python                                ║
-║  WEB         : HTML • CSS                            ║
-║  ENGINEERING : AutoCAD                               ║
-║                                                      ║
-║  FOCUS       : DSA • Problem Solving • AI            ║
-║                                                      ║
-║  MODE        : LEARN → BUILD → DEBUG → REPEAT        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+══════════════════════════════════════════════════════
 ## `01 // IDENTITY`
 
 ```text
