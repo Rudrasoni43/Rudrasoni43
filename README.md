@@ -18,7 +18,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rudrasoni43-181717?style=for-the-badge&logo=github)](https://github.com/Rudrasoni43)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rudrasoni43)
 
 </div>
 ---
